@@ -4,8 +4,6 @@ This respository contains the data and notebook used to train a Google AutoML NE
 
 [Data link](https://www.govinfo.gov/committee/house-climate?path=/browsecommittee/chamber/house/committee/climate/collection/CHRG/congress/116)
 
-Data was collected from
-
 ## Outline of Repository
 1. 0_Deprecated - Old documents
 
