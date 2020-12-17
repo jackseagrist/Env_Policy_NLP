@@ -1,0 +1,2 @@
+TRAIN,gs://climate_crisis_pdf_v2/ner_data_train.txt
+TEST,gs://climate_crisis_pdf_v2/ner_data_test.txt
