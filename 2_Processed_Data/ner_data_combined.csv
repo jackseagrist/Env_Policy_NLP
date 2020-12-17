@@ -1,0 +1,5 @@
+UNASSIGNED,gs://climate_crisis_pdf_v2/ner_data_train.txt
+UNASSIGNED,gs://climate_crisis_pdf_v2/ner_data_test.txt
+UNASSIGNED,gs://climate_crisis_pdf_v2/ner2_data_train.txt
+UNASSIGNED,gs://climate_crisis_pdf_v2/ner2_data_test.txt
+UNASSIGNED,gs://climate_crisis_pdf_v2/ner2_data_validation.txt
