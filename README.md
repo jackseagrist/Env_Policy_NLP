@@ -1,8 +1,8 @@
 # Environmental Policy NLP - Named Entity Recognition
 
-This respository contains the data and notebook used to train a Google AutoML NER network. The goal of this project was to train a network that could help with the analysis of policy documentation related to climate change and the environment. Documents were obtained from govinfo on the [House Select Committee on the Climate Crisis](https://climatecrisis.house.gov/)
+This respository contains the data and notebook used to train a Google AutoML NER network. The goal of this project was to train a network that could help with the analysis of policy documentation related to climate change and the environment. Documents were obtained from govinfo on the [House Select Committee on the Climate Crisis](https://climatecrisis.house.gov/).
 
-[Data link](https://www.govinfo.gov/committee/house-climate?path=/browsecommittee/chamber/house/committee/climate/collection/CHRG/congress/116)
+[Link to Data](https://www.govinfo.gov/committee/house-climate?path=/browsecommittee/chamber/house/committee/climate/collection/CHRG/congress/116)
 
 ## Outline of Repository
 1. 0_Deprecated - Old documents
